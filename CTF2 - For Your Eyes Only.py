@@ -1,3 +1,6 @@
+#CTF 2 For Your Eyes Only
+#created by Dustin Mobley for Cyber 210
+
 import socket
 
 def main():
